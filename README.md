@@ -1,8 +1,3 @@
-# data-science-project
-Forecasting weekly Walmart sales using Random Forest and XGBoost models.
-
----
-
 # Walmart Weekly Sales Forecasting
 This project analyzes and predicts weekly Walmart sales using **Random Forest** and **XGBoost** regression models.  
 The dataset contains historical sales, holiday flags, and economic indicators for 45 stores.
